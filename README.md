@@ -1,2 +1,2 @@
-# CSharpAdvanced
+The "C # Advanced" course builds on the skills of working with the C # language and the .NET platform, addressing more complex language-specific concepts. In the course you will learn how to create linear data structures, solve algorithmic problems (problem solving skills), work with streams, files and directories, create template classes. Attention is paid to the paradigm of functional programming, as well as the main tool relying on it - LINQ for processing data streams. The development environment that will be used by the coaching team is Microsoft Visual Studio 2019, but each student is free to use tools of their choice.
  
